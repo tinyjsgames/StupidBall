@@ -1,0 +1,27 @@
+{
+  "name": "stupidball",
+  "description": "Its a Stupid Ball Game",
+  "main": "index.html",
+  "authors": [
+    "Rohit Mulange<rohit@rohit.codes>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "js",
+    "game",
+    "ball",
+    "game"
+  ],
+  "homepage": "https://github.com/tinyjsgames/stupidball",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

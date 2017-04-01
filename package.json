@@ -1,0 +1,30 @@
+{
+  "name": "stupidball",
+  "version": "0.0.0",
+  "description": "Its a Stupid Ball Game",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinyjsgames/stupidball.git"
+  },
+  "keywords": [
+    "js",
+    "game",
+    "ball",
+    "game"
+  ],
+  "author": "Rohit Mulange<rohit@rohit.codes>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tinyjsgames/stupidball/issues"
+  },
+  "homepage": "https://github.com/tinyjsgames/stupidball#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
